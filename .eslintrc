@@ -1,13 +1,3 @@
 {
-    "extends": "google",
-
-    "parserOptions": {
-        "ecmaVersion": 6
-    },
-
-    "rules": {
-        "max-len": 0,
-        "require-jsdoc": 0,
-        "eol-last": [2, "never"]
-    }
+    "extends": "open-zigbee"
 }
