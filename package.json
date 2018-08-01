@@ -44,7 +44,7 @@
 
     "dependencies": {
         "busyman": "^0.3.0",
-        "enum": "^2.3.0"
+        "enum": "^2.5.0"
     },
 
     "devDependencies": {
