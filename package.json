@@ -1,6 +1,6 @@
 {
     "name": "zigbee-bridge-definitions",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "description": "An utility for getting ZCL identifiers defined by ZigBee Cluster Library.",
 
@@ -39,7 +39,7 @@
 
     "scripts": {
         "test": "mocha -u bdd --reporter spec",
-        "lint": "eslint definitions test"
+        "lint": "eslint ."
     },
 
     "dependencies": {
@@ -52,6 +52,6 @@
         "mocha": "^2.5.3",
 
         "eslint": "5.2.0",
-            "eslint-config-open-zigbee": "0.0.1"
+            "eslint-config-open-zigbee": "0.0.3"
     }
 }
